@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to First Post](./_posts/2022-28-09-FirstPost).
 
 There should be whitespace between paragraphs.
 
