@@ -1,9 +1,5 @@
 title: A Journey through Pottery
 logo: /images/Picture1.jpg
 description: This is a place of selfdiscovery through writing about pottery.
-receivers:
-- name: 'Contact-me'
-  email_configs:
-  - to: 'scaroagustina@gmail.com'
 show_downloads: false
 theme: jekyll-theme-minimal
