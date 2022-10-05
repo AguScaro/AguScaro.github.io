@@ -10,4 +10,4 @@ You can take a look at my academic work [here](https://www.researchgate.net/prof
 
 # Posts
 
-[Pottery in life](./_posts/2022-10-05-Pottery in Life-Agus.md)
+[Pottery in life](./_posts/2022-10-05-Pottery in Life.md)
