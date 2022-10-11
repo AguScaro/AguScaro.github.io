@@ -14,7 +14,7 @@ We see that the use of ceramic vessels does not only imply incorporating a new t
 
 From the first experiments to produce pottery in different parts of the world until now there have been many changes, and that is because pottery is so versatile. It can be produced in many forms, in many different ways and with many raw materials. 
 
-In the following posts we will talk about the history of ceramics over time, looking at the particularities of different places. We will also talk about the production techniques of pottery and the traditions that werendeveloped. 
+In the following posts we will talk about the history of ceramics over time, looking at the particularities of different places. We will also talk about the production techniques of pottery and the traditions that were developed. 
 
 ---
 
