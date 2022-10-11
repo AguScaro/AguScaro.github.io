@@ -26,7 +26,9 @@ From the first experiments to produce pottery in different parts of the world un
 
 In the following posts we will talk about the history of ceramics over time, looking at the particularities of different places. We will also talk about the production techniques of pottery and the traditions that were developed. 
 
- [back](./)
+[back](./index.md)
+ 
+ 
  
 ---
 
