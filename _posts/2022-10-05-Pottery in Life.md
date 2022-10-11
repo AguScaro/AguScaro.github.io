@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## Pottery in Life
+
+_by Agus_
+
 Producing a ceramic element implies a very high level of knowledge about the materials we use -mainly clays, sands and water-, the ways in which we can mix them to obtain the best results, how to build something that holds and survives heat, and how we can then fire it. All these actions are very complex and generally, they are skills learned from one or more masters who guide us through the process. 
 
 But how did the first potters learn the exact processes? and, more interestingly, why did they start making these pots? 
@@ -20,8 +24,10 @@ From the first experiments to produce pottery in different parts of the world un
 
 In the following posts we will talk about the history of ceramics over time, looking at the particularities of different places. We will also talk about the production techniques of pottery and the traditions that were developed. 
 
+ [back](./index.md)
+ 
 ---
 
 [^1]: You can see some interesting findings about these ceramics in Cremonte, M.B.; Botto, I.L.; Characterization of pottery fabrics from Cueva de Cristobal (Puna of Jujuy); British Archaeological Series; 2016; 5-13.
  
- [back](./)
+
