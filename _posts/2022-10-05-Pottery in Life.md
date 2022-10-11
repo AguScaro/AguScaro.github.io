@@ -16,6 +16,7 @@ From the first experiments to produce pottery in different parts of the world un
 
 In the following posts we will talk about the history of ceramics over time, looking at the particularities of different places. We will also talk about the production techniques of pottery and the traditions that werendeveloped. 
 
+---
 
 [^1]: You can see some interesting findings about these ceramics in Cremonte, M.B.; Botto, I.L.; Characterization of pottery fabrics from Cueva de Cristobal (Puna of Jujuy); British Archaeological Series; 2016; 5-13.
  
