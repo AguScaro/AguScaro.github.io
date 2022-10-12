@@ -1,8 +1,16 @@
+---
+layout: default
+---
+
+12 october 2022
+
 # Pots and other herbs 
 
 _by Agus_
 
 For some reason, I have always found _"clay pots"_, as these pottery productions are usually called, fascinating; they are beautiful, useful, and diverse, and anyone who has any experience with them will say that food is tastier when cooked in a _clay pot_.
+
+![Image_01](./images/40-220(41).JPG)
 
 Nowadays, these pots and the rest of the culinary equipment are being replaced by aluminium pots and plastic containers. This replacement means that fewer people are involved in pottery production. Therefore, the knowledge needed to make a good pot is being lost, and soon only archaeological and historical vessels will be left to learn about the technological traditions that developed throughout history.
 
@@ -13,6 +21,8 @@ Talking about a _pot_ seems something clear and at the same time, quite diffuse.
 If you ask anyone what an earthenware pot is, they will probably describe a vessel made of baked clay. Quite simple and clear, or is it?
 
 Both in the archaeological record and today's culinary equipment, the forms of "pots" are many and varied, and each one of them serves a particular practice within culinary preparations - we will deal with all those ceramic elements that are not related to cooking at another time. And this is what happens in our kitchens today, with so many pots of different sizes, shapes and materials, each with its own specific function.
+
+![Image_02](./images/IMG_98007.jpg)
 
 The _"pot"_ [^1] is thus only one element of what we could call the **culinary equipment**, i.e. the minimum equipment we should have in a kitchen to be able to prepare our favourite recipes, with the culinary techniques we learn. 
 
@@ -28,11 +38,9 @@ Now, what shape should a pot have?
 
 A pot should be globular, or at least not have sharp angles, as the globular shape is the most efficient to distribute the heat evenly throughout the preparation and achieve the fastest boiling point. It should also have a short neck and an opening large enough to mix the ingredients but not so large that they spill or the water evaporates. It also needs to have handles so that it can be put on and taken off the heat. 
 
-![image alt - picture of globular pot](./) ![image alt - another picture](./)
+![Image_03](./images/IMG_9806.jpg)
 
 This "ideal" pot can be constructed in different ways and have a variety of shapes. In general, they are vessels that have little or no "decoration": they are not painted in any particular way or polished (we are thinking about ceramics that are painted with slips, which are essentially coloured clays, and polished by hand, not glazed or enamelled). This is also related to maximising the efficiency of the pot when cooking: its wall is by nature porous, meaning that when we cook the water goes to those empty spaces, no matter how painted or polished it is. Once the water starts to evaporate due to the heat, it will be more difficult for that steam to escape and it will generate detachments from the ceramic wall that will start to damage the pot. And we all need a pot that will last as long as possible. Even so, some cookware has finishes and decorations, mainly on the outside. 
-
-![image alt - photos of beautiful decorated pots](./)
 
 The shapes, decorations, and techniques used to create each of the pots have an important root in the traditions and communities of each area. Elements of identity, practices and traditions are generated and are present in the pots, which we have to see as a set of networks, knowledge and identities.
 
