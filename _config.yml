@@ -1,3 +1,6 @@
+lang: en 
+languages: ["en", "es", "fr", "it"]
+
 title: A Journey through Pottery
 logo: /images/Picture1.jpg
 description: This is a place of selfdiscovery through writing about pottery.
