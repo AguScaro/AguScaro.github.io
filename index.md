@@ -17,7 +17,7 @@ You can take a look at my academic work [here](https://www.researchgate.net/prof
 
 ---
 
-[La versión en Español se encuentra aquí](/_posts-ES/about.md)
+[La versión en Español se encuentra aquí](/ES/about.md)
 
 ---
 
