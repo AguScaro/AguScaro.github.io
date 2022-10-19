@@ -17,7 +17,7 @@ You can take a look at my academic work [here](https://www.researchgate.net/prof
 
 ---
 
-Una versión en Español se encuentra [aquí](/_posts/2022-10-05-CeramicaVida.md) 
+Una versión en Español se encuentra [aquí](/_posts/about.md) 
 
 ---
 
