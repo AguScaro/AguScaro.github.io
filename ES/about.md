@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Acerca de mi
 
 Soy arqueóloga y una entusiasta de la cerámica. Estudio cerámiac arqueológica del área Andina, considerando sus distintos aspectos, pero también soy ceramista (o por lo menos lo intento).
