@@ -17,6 +17,10 @@ You can take a look at my academic work [here](https://www.researchgate.net/prof
 
 ---
 
+La versión en Español se encuentra [aquí](/_español/about.md)
+
+---
+
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
