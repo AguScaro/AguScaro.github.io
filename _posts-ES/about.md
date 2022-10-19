@@ -11,9 +11,9 @@ Pueden ver algo de mi trabajo académico [aquí](https://www.researchgate.net/pr
 
 # Publicaciones
 
-[La cerámica y la vida](/_postsES/2022-10-05-CeramicaVida.md)
+[La cerámica y la vida](/_posts-ES/2022-10-05-CeramicaVida.md)
 
-[De ollas y otras yerbas](/_postsES/2022-10-12-Ollas.md)
+[De ollas y otras yerbas](/_posts-ES/2022-10-12-Ollas.md)
 
 
 ---
