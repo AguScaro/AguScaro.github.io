@@ -1,8 +1,12 @@
 ---
-layout:default
+layout: default
 ---
 
-# Cerámica y vida cotidiana
+05 de obtubre de 2022
+
+## Cerámica y vida cotidiana
+
+_by Agus_
 
 Producir un elemento de cerámica implica un conocimiento muy alto acerca de los materiales que usamos -arcillas, arenas y agua principalmente-, de los modos en que podemos mezclarlos para obtener los mejores resultados, de como construir algo que se mantenga y sobreviva al calor, y justamente de como luego podemos cocinarlo. Todas estas acciones son muy complejas y en general son destrezas aprendidas de uno o más maestros que nos guían en el proceso. 
 
