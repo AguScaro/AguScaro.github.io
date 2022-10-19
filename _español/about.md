@@ -13,7 +13,7 @@ Pueden ver algo de mi trabajo académico [aquí](https://www.researchgate.net/pr
 
 [La cerámica y la vida](/_español/ollas.md)
 
-[De ollas y otras yerbas](/_posts/2022-10-12-PotsMore.md)
+[De ollas y otras yerbas](/_español/ollas.md)
 
 
 ---
