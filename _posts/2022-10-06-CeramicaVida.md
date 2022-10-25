@@ -2,7 +2,7 @@
 layout: default
 ---
 
-05 de obtubre de 2022
+05 de octubre de 2022
 
 ## Cerámica y vida cotidiana
 
